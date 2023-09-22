@@ -7,5 +7,7 @@ A equipe de desenvolvimento está empenhada em melhorias na qualidade dos websit
 Usando o Bootstrap, crie uma página que corresponda ao seguinte wireframe. Escolha cores e imagens harmoniosas com o contexto do website.
 
 
+![Wireframe]( ./Wireframe/wire-ativ4.png )
+
 
 
